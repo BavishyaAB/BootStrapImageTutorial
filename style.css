@@ -1,0 +1,13 @@
+.link a{
+    text-decoration: none;
+}
+.title{
+    background-color: darkgrey;
+}
+.carditm1{
+    height:500px;
+    width:302px;
+}
+.imgcontent{
+    font-size:20px;
+}
